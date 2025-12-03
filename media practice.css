@@ -1,0 +1,37 @@
+@media(min-width:768px){
+    body{
+        background-color: rgb(249, 10, 10);
+    }
+
+h1{
+
+    font-size: 48px;
+    color: red;
+    background-color: turquoise;
+
+}
+}
+@media(min-width:768px){
+p{  
+
+font-size: 28px;
+
+}
+}
+@media(min-width:320px) and (max-width:768px){
+    nav ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    }
+}
+
+
+
+
+
+
+
+
